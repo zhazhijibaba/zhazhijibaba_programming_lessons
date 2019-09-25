@@ -17,17 +17,15 @@ python compute_pi_monte_carlo_np.py
 #### calculate pi using math
 
 compute pi using Nilakantha series  
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi = 3 + \frac{4}{2*3*4}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
-pi = 3 + 4 / (2x3x4) - 4 / (4x5x6) + 4 / (6x7x8) = 4 / (8x9x10) + ...  
-use the module decimal for high precision float number  
-
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=3+\frac{4}{2\times3\times4}-\frac{4}{4\times5\times6}+\frac{4}{6\times7\times8}-\frac{4}{8\times9\times10}+\dots" title="\Large \pi=3+\frac{4}{2\times3\times4}-\frac{4}{4\times5\times6}+\frac{4}{6\times7\times8}-\frac{4}{8\times9\times10}+\dots" />
+with the module decimal for high precision float number  
 ```
 python compute_pi_monte_carlo_np.py
 ```
 #### calculate e using math
 Euler's number e, the base of natural logs
-e is the sum of this infinite series:
-e = 1/0! + 1/1! + 1/2! + 1/3! + 1/4! + ...
+e is the sum of this infinite series:  
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\e=\frac{1}{0!}+\frac{1}{1!}+\frac{1}{2!}+\frac{1}{3!}+\frac{1}{4!}+\dots" title="\Large \e=\frac{1}{0!}+\frac{1}{1!}+\frac{1}{2!}+\frac{1}{3!}+\frac{1}{4!}+\dots" />
 ```
 python compute_e.py
 ```
