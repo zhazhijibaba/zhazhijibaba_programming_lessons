@@ -7,7 +7,7 @@ Here we try to calculate pi and e using computer.
 #### calculate pi using Monte Carlo sampling
 The area of a circle A is:  
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;A={\pi}r^2" title="\Large A={\pi}r^2" />  
-If the circle has radius of 1, the area of the cirle is pi. The area of the sqaure is 4.
+If the circle has radius of 1, the area of the cirle is pi. The area of the sqaure is 4.  If we sample the area by uniformly distributed random points, the ratio of the area should be equal to the ratio of points.  
 So we can compute pi by:  
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=4\frac{N_{circle}}{N_{square}}" title="\Large \pi=4\frac{N_{circle}}{N_{square}}" />              
 where N is the number of sample points
