@@ -1,8 +1,13 @@
 # Calculating pi and e in Euler's Identity
+Euler's Identity is:  
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;e^{i\pi}+1=0" title="\Large e^{i\pi}+1=0" />   
+It show the beauty of math. There are five fundamental constants in mathematics.  
+Here we try to calculate pi and e using computer.  
 
 #### calculate pi using Monte Carlo sampling
 The area of a circle A is:  
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;A={\pi}r^2" title="\Large A={\pi}r^2" />  
+If the circle has radius of 1, the area of the cirle is pi. The area of the sqaure is 4.
 So we can compute pi by:  
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi=4\frac{N_{circle}}{N_{square}}" title="\Large \pi=4\frac{N_{circle}}{N_{square}}" />              
 where N is the number of sample points
@@ -13,7 +18,8 @@ calculate pi using Monte Carlo sampling with turtle graphics
 ```
 python compute_pi_monte_carlo_turtle.py
 ```
-<img src="mc_pi.gif" width="250">
+<img src="mc_pi.gif" width="250">  
+MC sampling process; the points inside the circle show in red; the points outside the circle show in blue
 
 calculate pi using Monte Carlo with numpy for speed-up
 ```
