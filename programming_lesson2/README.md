@@ -25,7 +25,7 @@ python compute_pi_monte_carlo_np.py
 #### calculate e using math
 Euler's number e, the base of natural logs
 e is the sum of this infinite series:  
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;\e=\frac{1}{0!}+\frac{1}{1!}+\frac{1}{2!}+\frac{1}{3!}+\frac{1}{4!}+\dots" title="\Large \e=\frac{1}{0!}+\frac{1}{1!}+\frac{1}{2!}+\frac{1}{3!}+\frac{1}{4!}+\dots" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;e=\frac{1}{0!}+\frac{1}{1!}+\frac{1}{2!}+\frac{1}{3!}+\frac{1}{4!}+\dots" title="\Large e=\frac{1}{0!}+\frac{1}{1!}+\frac{1}{2!}+\frac{1}{3!}+\frac{1}{4!}+\dots" />
 ```
 python compute_e.py
 ```
