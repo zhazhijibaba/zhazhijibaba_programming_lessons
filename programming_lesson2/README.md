@@ -17,6 +17,7 @@ python compute_pi_monte_carlo_np.py
 #### calculate pi using math
 
 compute pi using Nilakantha series  
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\pi = 3 + \frac{4}{2*3*4}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 pi = 3 + 4 / (2x3x4) - 4 / (4x5x6) + 4 / (6x7x8) = 4 / (8x9x10) + ...  
 use the module decimal for high precision float number  
 
