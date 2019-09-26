@@ -1,6 +1,10 @@
 # Calculating pi and e in Euler's Identity
 Euler's Identity is:  
+  
+    
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;e^{i\pi}+1=0" title="\Large e^{i\pi}+1=0" />   
+  
+    
 It show the beauty of math. There are five fundamental constants in mathematics.  
 Here we try to calculate pi and e using computer.  
 
