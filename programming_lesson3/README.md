@@ -1,7 +1,7 @@
 # Modeling and 3D printing Water Cube Model 
-
-Here, we tried to figure out the structure of Water Cube Building in Beijing.
-<img src="Water_Cube_The_National_Aquatics_Center_Chaoyang_Beijing.jpg" width="250">  
+  
+Here, we tried to figure out the structure of Water Cube Building in Beijing.  
+<img src="Water_Cube_The_National_Aquatics_Center_Chaoyang_Beijing.jpg" width="250">   
 
 #### Weaire-Phelan Structure
 The building of Water Cube in Beijing is made of the Weaire-Phelan structure, which is made up of wonky dodecahedrons with pentagonal faces
